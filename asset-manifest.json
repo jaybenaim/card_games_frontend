@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jaybenaim/card_games_two/static/css/main.d1b05096.chunk.css",
+    "main.js": "/jaybenaim/card_games_two/static/js/main.f255385e.chunk.js",
+    "main.js.map": "/jaybenaim/card_games_two/static/js/main.f255385e.chunk.js.map",
+    "runtime-main.js": "/jaybenaim/card_games_two/static/js/runtime-main.78eda963.js",
+    "runtime-main.js.map": "/jaybenaim/card_games_two/static/js/runtime-main.78eda963.js.map",
+    "static/js/2.195ef589.chunk.js": "/jaybenaim/card_games_two/static/js/2.195ef589.chunk.js",
+    "static/js/2.195ef589.chunk.js.map": "/jaybenaim/card_games_two/static/js/2.195ef589.chunk.js.map",
+    "index.html": "/jaybenaim/card_games_two/index.html",
+    "precache-manifest.1dfe4b24951ff3c04d772ee34bfbb6f8.js": "/jaybenaim/card_games_two/precache-manifest.1dfe4b24951ff3c04d772ee34bfbb6f8.js",
+    "service-worker.js": "/jaybenaim/card_games_two/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/jaybenaim/card_games_two/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.195ef589.chunk.js.LICENSE": "/jaybenaim/card_games_two/static/js/2.195ef589.chunk.js.LICENSE",
+    "static/media/logo.svg": "/jaybenaim/card_games_two/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78eda963.js",
+    "static/js/2.195ef589.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.f255385e.chunk.js"
+  ]
+}
