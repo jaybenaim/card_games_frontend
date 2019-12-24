@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jaybenaim/card_games_two/static/css/main.d1b05096.chunk.css",
-    "main.js": "/jaybenaim/card_games_two/static/js/main.f255385e.chunk.js",
-    "main.js.map": "/jaybenaim/card_games_two/static/js/main.f255385e.chunk.js.map",
-    "runtime-main.js": "/jaybenaim/card_games_two/static/js/runtime-main.78eda963.js",
-    "runtime-main.js.map": "/jaybenaim/card_games_two/static/js/runtime-main.78eda963.js.map",
-    "static/js/2.195ef589.chunk.js": "/jaybenaim/card_games_two/static/js/2.195ef589.chunk.js",
-    "static/js/2.195ef589.chunk.js.map": "/jaybenaim/card_games_two/static/js/2.195ef589.chunk.js.map",
-    "index.html": "/jaybenaim/card_games_two/index.html",
-    "precache-manifest.1dfe4b24951ff3c04d772ee34bfbb6f8.js": "/jaybenaim/card_games_two/precache-manifest.1dfe4b24951ff3c04d772ee34bfbb6f8.js",
-    "service-worker.js": "/jaybenaim/card_games_two/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/jaybenaim/card_games_two/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.195ef589.chunk.js.LICENSE": "/jaybenaim/card_games_two/static/js/2.195ef589.chunk.js.LICENSE",
-    "static/media/logo.svg": "/jaybenaim/card_games_two/static/media/logo.5d5d9eef.svg"
+    "main.css": "./static/css/main.d1b05096.chunk.css",
+    "main.js": "./static/js/main.c3892474.chunk.js",
+    "main.js.map": "./static/js/main.c3892474.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.0d9cb058.js",
+    "runtime-main.js.map": "./static/js/runtime-main.0d9cb058.js.map",
+    "static/js/2.195ef589.chunk.js": "./static/js/2.195ef589.chunk.js",
+    "static/js/2.195ef589.chunk.js.map": "./static/js/2.195ef589.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.6b8c3c9041907284bb47920b65a8a346.js": "./precache-manifest.6b8c3c9041907284bb47920b65a8a346.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "./static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.195ef589.chunk.js.LICENSE": "./static/js/2.195ef589.chunk.js.LICENSE",
+    "static/media/logo.svg": "./static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.78eda963.js",
+    "static/js/runtime-main.0d9cb058.js",
     "static/js/2.195ef589.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.f255385e.chunk.js"
+    "static/js/main.c3892474.chunk.js"
   ]
 }
